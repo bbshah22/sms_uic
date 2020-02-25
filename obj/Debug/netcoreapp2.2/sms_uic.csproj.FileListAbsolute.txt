@@ -1,0 +1,6 @@
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp2.2/sms_uic.csprojAssemblyReference.cache
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp2.2/sms_uic.csproj.CoreCompileInputs.cache
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp2.2/sms_uic.RazorAssemblyInfo.cache
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp2.2/sms_uic.RazorAssemblyInfo.cs
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp2.2/sms_uic.AssemblyInfoInputs.cache
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp2.2/sms_uic.AssemblyInfo.cs

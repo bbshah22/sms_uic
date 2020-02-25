@@ -1,9 +1,9 @@
 using System.ComponentModel.DataAnnotations;
 using System;
 
-namespace sms_uic.Models.School
+namespace sms_uic.Models.Schools
 {
-    class Classroom{
+    public class Classroom{
         [Key]
         public int ClassroomId{get;set;}
         public String Name{get;set;}

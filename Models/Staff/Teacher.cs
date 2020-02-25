@@ -3,11 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Identity;
-using sms_uic.Models.School;
+using sms_uic.Models.Schools;
 
 namespace sms_uic.Models.Staff
 {
-    class Teacher:IdentityUser{
+    public class Teacher:IdentityUser{
         [Key]
         public int TeacherId{get;set;}
         public DateTime DateOfBirth {get;set;}
