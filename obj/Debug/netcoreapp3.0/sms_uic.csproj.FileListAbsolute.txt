@@ -13,3 +13,9 @@
 /Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp3.0/sms_uic.RazorTargetAssemblyInfo.cache
 /Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp3.0/sms_uic.dll
 /Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp3.0/sms_uic.pdb
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/Npgsql.dll
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp3.0/sms_uic.csproj.CopyComplete

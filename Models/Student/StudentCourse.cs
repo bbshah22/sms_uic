@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace sms_uic.Models.Student
+namespace sms_uic.Models.Students
 {
     public class StudentCourse{
         [Key]
