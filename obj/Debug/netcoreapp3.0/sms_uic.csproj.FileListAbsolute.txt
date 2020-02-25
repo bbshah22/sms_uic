@@ -1,0 +1,15 @@
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp3.0/sms_uic.csprojAssemblyReference.cache
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp3.0/sms_uic.MvcApplicationPartsAssemblyInfo.cache
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp3.0/sms_uic.AssemblyInfoInputs.cache
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp3.0/sms_uic.AssemblyInfo.cs
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/sms_uic.deps.json
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/sms_uic.runtimeconfig.json
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/sms_uic.runtimeconfig.dev.json
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/sms_uic.dll
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/bin/Debug/netcoreapp3.0/sms_uic.pdb
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp3.0/sms_uic.RazorTargetAssemblyInfo.cache
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp3.0/sms_uic.dll
+/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/Debug/netcoreapp3.0/sms_uic.pdb

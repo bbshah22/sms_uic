@@ -3,9 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System;
 using System.Collections.Generic;
 
-namespace sms_uic.Models.School
+namespace sms_uic.Models.Schools
 {
-    class School{
+    public class School{
         [Key]
         public int SchoolId{get;set;}
         public String Name{get;set;}

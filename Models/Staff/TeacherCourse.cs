@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace sms_uic.Models.Staff
 {
-    class TeacherCourse{
+   public class TeacherCourse{
         [Key]
         public int TeacherCourseId{get;set;}
         [ForeignKey("Teacher")]

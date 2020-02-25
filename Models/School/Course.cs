@@ -3,9 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System;
 using System.Collections.Generic;
 
-namespace sms_uic.Models.School
+namespace sms_uic.Models.Schools
 {
-    class Course{
+    public class Course{
         public enum Subject{
             /**/
         }

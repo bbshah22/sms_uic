@@ -4,7 +4,7 @@ using System;
 
 namespace sms_uic.Models.Student
 {
-    class StudentAttendance{
+    public class StudentAttendance{
         [Key]
         public int StudentAttendanceId{get;set;}
         [ForeignKey("Student")]

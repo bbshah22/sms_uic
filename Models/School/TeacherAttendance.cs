@@ -4,9 +4,9 @@ using System;
 using System.Collections.Generic;
 using sms_uic.Models.Staff;
 
-namespace sms_uic.Models.School
+namespace sms_uic.Models.Schools
 {
-    class TeacherAttendance{
+    public class TeacherAttendance{
         [Key]
         public int TeacherAttendanceId{get;set;}
 
