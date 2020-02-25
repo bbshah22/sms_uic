@@ -22,7 +22,7 @@ namespace sms_uic.Models{
     }
 
     public class SMSDbContextFactory {
-        public SMSDbContext Create(string connectionStirng) {
+        public static SMSDbContext Create(string connectionStirng) {
             var optionsBuilder = new DbContextOptionsBuilder<SMSDbContext>();
             optionsBuilder.UseNpgsql(connectionStirng);
             var dbContext = new SMSDbContext(optionsBuilder.Options);

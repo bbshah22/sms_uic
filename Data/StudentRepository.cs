@@ -8,8 +8,12 @@ namespace sms_uic.Data
 {
     public class StudentRepository{
         private DbSet<Student> students;
-        public StudentRepository(SMSDbContext context){
-            DbSet<Student> students = context.Student;
+        private SMSDbContext dbContext;
+        public StudentRepository(){
+            string connectionString = "";
+            dbContext = SMSDbContextFactory.Create(connectionString);
+
+            DbSet<Student> students = dbContext.Student;
         }
 
         public List<Student> getGradeLevel(int level, School school){
