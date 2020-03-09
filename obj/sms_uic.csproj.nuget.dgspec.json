@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/sms_uic.csproj": {}
+    "/Users/bhuvnishah/Documents/GitHub/sms_uic/sms_uic.csproj": {}
   },
   "projects": {
-    "/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/sms_uic.csproj": {
+    "/Users/bhuvnishah/Documents/GitHub/sms_uic/sms_uic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/sms_uic.csproj",
+        "projectUniqueName": "/Users/bhuvnishah/Documents/GitHub/sms_uic/sms_uic.csproj",
         "projectName": "sms_uic",
-        "projectPath": "/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/sms_uic.csproj",
-        "packagesPath": "/Users/emiliovazquez/.nuget/packages/",
-        "outputPath": "/Users/emiliovazquez/Documents/Spring2020/C4W/v0.0/sms_uic/obj/",
+        "projectPath": "/Users/bhuvnishah/Documents/GitHub/sms_uic/sms_uic.csproj",
+        "packagesPath": "/Users/bhuvnishah/.nuget/packages/",
+        "outputPath": "/Users/bhuvnishah/Documents/GitHub/sms_uic/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/emiliovazquez/.nuget/NuGet/NuGet.Config"
+          "/Users/bhuvnishah/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -65,6 +62,10 @@
               "version": "[3.0.1, 3.0.1]"
             },
             {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.0.2, 3.0.2]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[3.0.0, 3.0.0]"
             }
@@ -77,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     }
