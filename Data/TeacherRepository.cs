@@ -16,6 +16,10 @@ namespace sms_uic.Data
             DbSet<Teacher> teachers = dbContext.Teacher;
         }
 
+        public List<Teacher> getSubjects(string sujbect, School school){
+            return teachers.Where( s =>  s.Subjects == subject && s.SchoolId == school.SchoolId).ToList();
+        } 
+
         public List<Teacher> getGradeLevel(int level, School school){
             return teachers.Where( s =>  s.GradeLevel == level && s.SchoolId == school.SchoolId).ToList();
         } 
